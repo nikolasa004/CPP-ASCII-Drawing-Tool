@@ -1,0 +1,87 @@
+# C++ / Visual Studio - ASCII Drawing Tool
+# Keep source files (.cpp, .h), solution/project files (.sln, .vcxproj,
+# .vcxproj.filters), notes, and README/screenshots under docs/.
+
+# Visual Studio private workspace settings and caches
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.VC.db
+*.VC.opendb
+*.VC.db-shm
+*.VC.db-wal
+*.ipch
+ipch/
+Browse.VC.db
+Solution.VC.db
+
+# Compiler and linker output (including nested VS build directories)
+[Dd]ebug/
+[Rr]elease/
+[Rr]elWithDebInfo/
+[Mm]inSizeRel/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+[Bb]in/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Oo]ut/
+[Cc][Mm]ake[Ff]iles/
+CMakeCache.txt
+cmake_install.cmake
+*.dir/
+
+# Binary/intermediate files
+*.obj
+*.o
+*.pdb
+*.idb
+*.ilk
+*.ipch
+*.pch
+*.tlog
+*.lastbuildstate
+*.recipe
+*.exp
+*.lib
+*.dll
+*.exe
+*.app
+*.dSYM/
+*.log
+*.iobj
+*.iip
+*.ipdb
+*.opendb
+*.db-shm
+*.db-wal
+*.VC.db
+*.VC.opendb
+
+# Visual Studio profiling, test and temporary files
+TestResults/
+*.coverage
+*.coveragexml
+*.vsp
+*.vspx
+*.sdf
+*.opensdf
+*.cache
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+*~
+
+# Operating system / editor
+.DS_Store
+Thumbs.db
+Desktop.ini
+.idea/
+.vscode/
